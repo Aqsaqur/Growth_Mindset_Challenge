@@ -37,7 +37,7 @@ pip install -r requirements.txt
 bash
 Copy
 Edit
-streamlit run app.py
+streamlit run main.py
 
 # 🛠️ How to Use
 1️⃣ Upload a CSV or Excel file
